@@ -1,4 +1,4 @@
-# ⚡️ SPRINT 8: Using react for building a movies webpage
+# ⚡️ SPRINT 8: Using react for building 
 
 This project is a modern web
 
