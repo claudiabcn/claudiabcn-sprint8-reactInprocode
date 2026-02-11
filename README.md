@@ -92,7 +92,7 @@ This sprint significantly improved my understanding of
 Feature: Auten
 
     Given el us
-    When inte
-    Then es redi
+    When int
+    Then es 
 
    
