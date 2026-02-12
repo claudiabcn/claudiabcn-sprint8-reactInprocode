@@ -1,10 +1,10 @@
-# ⚡️ SPRINT 8: Using react for building 
+# ⚡️ SPRINT 8: Re-evolución
 
-This project is a modern web
+This project is a modern web space created to document my personal evolution. It’s more than a tracker; it’s a daily reflection on movement and recovery. By logging every gym session and rehab appointment, I’m building a visual story of how staying active impacts my evolution.
 
 ## 🎯 Objectives:
 
-- Build a s
+- Build a
 
 ## 💻 Technology Stack:
 
