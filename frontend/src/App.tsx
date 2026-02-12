@@ -1,14 +1,21 @@
-import { BrowserRouter as Router } from 'react-router-dom';
-import AppRoutes from '../src/routes/appRoutes.tsx';
+import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
+import Navbar  from './shared/components/Navbar';
+import Home from './features/home/Home';
 
-const App = () => {
+function App() {
   return (
     <Router>
-      <div className="min-h-screen">
-        <AppRoutes />
+      <div className="min-h-screen bg-gradient-to-br from-pastel-yellow-50 via-white to-pastel-pink-50">
+        <Navbar />
+        <main>
+          <Routes>
+            <Route path="/" element={<Home />} />
+
+          </Routes>
+        </main>
       </div>
     </Router>
   );
-};
+}
 
 export default App;
